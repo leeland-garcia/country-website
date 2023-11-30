@@ -1,0 +1,29 @@
+h1 {
+    color: blueviolet;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.nav {
+    list-style: none;
+    width: 50vw;
+    Margin: auto;
+padding-left: 0%;
+text-align: center;
+    border-style: dashed;
+}
+
+
+
+.nav>li{
+
+     border-style: outset;
+     display: inline-block;
+
+}
+.nav>li>a{
+    text-decoration: none;
+    color: blue;
+}
+.nav>li>a:hover {
+
+}
